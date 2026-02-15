@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Who-are-you-today-template</string>
+    <string-array name="phrases_array">
+        <item>Сегодня ты — супер!</item>
+        <item>Понедельник — день тяжёлый</item>
+        <item>Лучший день, чтобы быть собой</item>
+        <item>Кофе — всему голова</item>
+        <item>Ну, здравствуй, утро</item>
+    </string-array>
+</resources>
